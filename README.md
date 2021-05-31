@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **fran-olv/fran-olv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<a href="https://github.com/fran-olv">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fran-olv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran-olv&layout=compact&langs_count=16&theme=dracula"
+     </div>
+ <div>
+![Snake animation](https://github.com/fran-olv/fran-olv/blob/output/github-contribution-grid-snake.svg)
+</div>
